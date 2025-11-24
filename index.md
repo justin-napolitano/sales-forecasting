@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - data preprocessing
   - model evaluation
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on analyzing historical sales data, naive forecasting models, data preprocessing,
+  evaluation metrics, and plans for more advanced predictive modeling. These align closely with the
+  datascience family description of data analysis projects, ETL pipelines, and statistical modeling.
 ---
 
 # Sales Forecasting Project
@@ -75,3 +81,4 @@ Model performance is assessed using Root Mean Squared Error (RMSE) and Mean Abso
 - Automate data ingestion and model evaluation pipelines for scalability.
 
 This documentation serves as a technical reference for returning developers to understand the project's structure, current state, and planned directions without extraneous commentary or motivational language.
+
