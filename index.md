@@ -1,12 +1,26 @@
 ---
-slug: "github-sales-forecasting"
-title: "sales-forecasting"
-repo: "justin-napolitano/sales-forecasting"
-githubUrl: "https://github.com/justin-napolitano/sales-forecasting"
-generatedAt: "2025-11-23T09:34:12.161596Z"
-source: "github-auto"
+slug: github-sales-forecasting
+title: Sales Forecasting Project Using Naive Models and Data Resampling
+repo: justin-napolitano/sales-forecasting
+githubUrl: https://github.com/justin-napolitano/sales-forecasting
+generatedAt: '2025-11-23T09:34:12.161596Z'
+source: github-auto
+summary: >-
+  Analysis of historical sales data with naive forecasting methods, data preprocessing, evaluation
+  metrics, and future modeling plans.
+tags:
+  - sales-forecasting
+  - time-series
+  - pandas
+  - model-evaluation
+seoPrimaryKeyword: sales forecasting
+seoSecondaryKeywords:
+  - time series forecasting
+  - naive models
+  - data preprocessing
+  - model evaluation
+seoOptimized: true
 ---
-
 
 # Sales Forecasting Project
 
