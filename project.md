@@ -6,9 +6,7 @@ repo: justin-napolitano/sales-forecasting
 githubUrl: https://github.com/justin-napolitano/sales-forecasting
 generatedAt: '2025-11-24T21:36:14.252Z'
 source: github-auto
-summary: >-
-  Analyze and model sales data using Python, Jupyter Notebooks, and various
-  forecasting techniques.
+summary: Analyze and model sales data using Python, Jupyter Notebooks, and various forecasting techniques.
 tags:
   - python
   - jupyter
@@ -27,8 +25,8 @@ seoSecondaryKeywords:
   - Jupyter Notebook sales
   - Python forecasting scripts
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -89,4 +87,5 @@ pip install pandas numpy matplotlib statsmodels scikit-learn
 - Implement automated model selection based on performance metrics.
 - Include weekly or multi-week forecasting capability.
 - Enhance documentation and add usage examples.
+
 
