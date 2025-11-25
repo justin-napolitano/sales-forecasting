@@ -1,20 +1,32 @@
 ---
 slug: github-sales-forecasting
 id: github-sales-forecasting
-title: sales-forecasting
+title: Sales Forecasting with Python and Jupyter Notebooks
 repo: justin-napolitano/sales-forecasting
 githubUrl: https://github.com/justin-napolitano/sales-forecasting
 generatedAt: '2025-11-24T21:36:14.252Z'
 source: github-auto
 summary: >-
-  This repository contains code and data for analyzing and modeling sales data
-  with the goal of forecasting future sales. The project primarily uses Jupyter
-  Notebooks and Python scripts to explore historical sales data, evaluate
-  forecasting models, and visualize results.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Analyze and model sales data using Python, Jupyter Notebooks, and various
+  forecasting techniques.
+tags:
+  - python
+  - jupyter
+  - sales forecasting
+  - data analysis
+  - pandas
+  - numpy
+  - statsmodels
+  - scikit-learn
+seoPrimaryKeyword: sales forecasting with python
+seoSecondaryKeywords:
+  - sales data analysis
+  - forecasting models
+  - data visualization
+  - RMSE evaluation
+  - Jupyter Notebook sales
+  - Python forecasting scripts
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
